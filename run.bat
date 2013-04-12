@@ -1,0 +1,10 @@
+sparse storage=array;script=script1.matrix
+sparse storage=array;script=script2.matrix
+sparse storage=array;script=script3.matrix
+sparse storage=array;script=script4.matrix
+sparse storage=array;script=script5.matrix
+sparse storage=array;script=script6.matrix
+sparse storage=array;script=script7.matrix
+sparse storage=array;script=script8.matrix
+sparse storage=linkedlist;script=script9.matrix
+sparse storage=linkedlist;script=script10.matrix

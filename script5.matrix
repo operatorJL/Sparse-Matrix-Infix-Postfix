@@ -1,0 +1,5 @@
+read(A,"A.txt")
+read(B,"B.txt")
+S=B*A+A*B
+R5=S*(A*B+B)
+write(R5)
