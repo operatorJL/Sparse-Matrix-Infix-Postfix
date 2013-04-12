@@ -1,0 +1,17 @@
+# assume all matrices are 3 X 3
+read(A,"A.txt")
+read(B,"B.txt")
+read(C,"C.txt")
+read(D,"D.txt")
+read(E,"E.txt")
+read(F,"F.txt")
+R=A*B
+R1=(A+B)*E*F
+R2=(A+B)*(C+D)
+write(A)
+# just add .txt extension: R.txt
+write(R)
+write(R1)
+write(R2)
+R3=(A+B)*(A+A+B+B*(C+D))*A
+write(R3)

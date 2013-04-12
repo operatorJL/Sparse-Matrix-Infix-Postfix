@@ -1,0 +1,7 @@
+read(A,"A.txt")
+read(B,"B.txt")
+read(C,"C.txt")
+read(M,"M.txt")
+write(M)
+S=A+B*C
+#R7=A+B+M

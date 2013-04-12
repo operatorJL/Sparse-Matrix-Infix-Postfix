@@ -1,0 +1,6 @@
+read(M,"M.txt")
+read(N,"N.txt")
+read(P,"P.txt")
+S=M+M*(M+N)
+R10=P+S*P+P
+write(R10)
