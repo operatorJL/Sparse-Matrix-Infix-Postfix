@@ -1,7 +1,0 @@
-read(A,"A.txt")
-read(C,"C.txt")
-read(G,"G.txt")
-R1=A*A*C
-S1=C+C+G
-write(R1)
-write(S1)
