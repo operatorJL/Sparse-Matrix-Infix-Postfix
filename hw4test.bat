@@ -1,1 +1,0 @@
-bcc32 main.cpp arraystack.cpp scriptparse.cpp
