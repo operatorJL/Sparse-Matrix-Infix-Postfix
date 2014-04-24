@@ -1,5 +1,0 @@
-#Matrix C
-#Linked List
-1 1 4
-2 1 12
-3 1 4
