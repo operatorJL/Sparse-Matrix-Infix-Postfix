@@ -1,7 +1,0 @@
-read(A,"A.txt")
-read(F,"F.txt")
-read(B,"B.txt")
-read(H,"H.txt")
-S=F*(B+H)
-R3=A+S
-write(R3)
