@@ -1,7 +1,0 @@
-read(A,"A.txt")
-read(E,"E.txt")
-read(C,"C.txt")
-read(M,"M.txt")
-S=A+A+C*
-R8=E*M+E*M
-write(R8)
